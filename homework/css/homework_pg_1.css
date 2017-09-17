@@ -1,0 +1,15 @@
+#my-topnav {
+	background-color: red;
+	overflow: hidden;
+
+}
+#my-topnav a {
+float: left;
+display: block;
+color: black;
+text-align: left;
+
+}
+aside {
+	float: right;
+}

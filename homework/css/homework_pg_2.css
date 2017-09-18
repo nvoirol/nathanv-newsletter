@@ -1,0 +1,16 @@
+#my-title {
+	color: blue;
+	font-family: helvetica;
+}
+
+
+
+.body_text {
+	-webkit-column-count: 5; /* chrome*/
+			-webkit-column-gap: 40px; /* chrome*/
+			-webkit-column-rule-width: 1px; /* chrome*/
+			-webkit-column-rule-style: solid; /* chrome*/
+			-webkit-column-rule-color: grey; /* chrome*/
+			-webkit-text-align: justify; /* chrome*/
+
+}

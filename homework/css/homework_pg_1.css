@@ -1,15 +1,86 @@
 #my-topnav {
-	background-color: red;
+	background-color: #ff4221;
 	overflow: hidden;
+	height: 60px;
+	font-family: helvetica;
+	text-decoration: none;
+	display: flex;
 
 }
-#my-topnav a {
-float: left;
-display: block;
+
+#link-id {
+float: right;
 color: black;
-text-align: left;
+text-align: right;
+font-size: 16px;
+padding-left: 800px;
+padding-top: 40px;
+}
+
+body {
+	background-color: black;
+}
+
+a {
+text-decoration: none;
+color: black;
+}
+
+#news-sleuths {
+	color: white;
+	font-size: 40px;
+	margin-top: 3px;
+	margin-left: 10px;
+	
+}
+
+#china-pic {
+	width: 800px;
+	padding-top: 40px;
+	padding-left: 60px;
+	float left: 
+	
+}
+
+#title-1 {
+	margin-top: 5px;
+	margin-bottom: 0px;
+	color: white;
+	font-size: 30px;
+	padding-left: 60px;
+	font-family: helvetica
+}
+
+#author-1 {
+	margin-top: 5px;
+	padding-left: 60px;
+	color: white;
+	font-family: times new roman;
+}
+
+#top-stories {
+	background-color: white;
+	float: right;
+	font-size: 30px;
+	padding-right: 52px;
+	font-family: helvetica;
+	margin-right: 25px;
+	padding-left: 7px;
+	padding-top: 5px;
+	margin-top: 0px;
+	margin-bottom: 0px
 
 }
-aside {
+
+#list {
+	background-color: white;
 	float: right;
+	font-size: 20px;
+	padding-right: 50px;
+	font-family: times;
+	padding-left: 29px;
+	padding-top: 20px;
+	margin-top: 40px;
+	margin-right: -222px;
 }
+

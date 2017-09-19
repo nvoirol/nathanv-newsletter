@@ -1,16 +1,44 @@
-#my-title {
-	color: blue;
+#my-topnav {
+	background-color: #ff4221;
+	overflow: hidden;
+
 	font-family: helvetica;
+	text-decoration: none;
+	
+
 }
 
+#link-id {
+float: right;
+color: black;
+text-align: right;
+font-size: 16px;
+padding-left: 800px;
+padding-top: 40px;
+}
 
+body {
+	background-color: white;
+}
+a {
+text-decoration: none;
+color: black;
+}
 
+#news-sleuths {
+	color: white;
+	font-size: 40px;
+	margin-top: 3px;
+	margin-left: 10px;
+}
 .body_text {
-	-webkit-column-count: 5; /* chrome*/
-			-webkit-column-gap: 40px; /* chrome*/
-			-webkit-column-rule-width: 1px; /* chrome*/
-			-webkit-column-rule-style: solid; /* chrome*/
-			-webkit-column-rule-color: grey; /* chrome*/
-			-webkit-text-align: justify; /* chrome*/
+	float: left;
+		-webkit-column-count: 5; /* chrome*/
+		-webkit-column-gap: 40px; /* chrome*/
+		-webkit-column-rule-width: 1px; /* chrome*/
+		-webkit-column-rule-style: solid; /* chrome*/
+		-webkit-column-rule-color: grey; /* chrome*/
 
 }
+
+

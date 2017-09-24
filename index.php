@@ -1,1 +1,1 @@
-<?php include_once("local-setup.html"); ?>
+<?php include_once("homework/html/homework_pg_1.html"); ?>
